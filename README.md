@@ -7,7 +7,7 @@ assist us with creating different routes in this application.
 ## Setup
 
 - `Fork` and `clone` this repository.
-- Run `npm i`.
+- Run `npm install`.
 
 ## Step 1
 
@@ -17,7 +17,7 @@ In this step we will install the routing package we need and setup our router.
 
 ### Instructions
 
-- Run `npm i react-router-dom`.
+- Run `npm install react-router-dom`.
 - Open `App.js`.
 - Import `HashRouter`from `react-router-dom`.
 - Wrap the `HashRouter` component around the existing `div`.
